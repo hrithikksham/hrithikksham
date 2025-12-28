@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Hrithik+Sham+👋;Architecting+Scalable+Backends;Building+AI+Driven+Systems;Coffee+In,+Code+Out+☕" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=I'm+Hrithik+Sham+👋;Architecting+Scalable+Backends;Building+AI+Driven+Systems;" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -12,18 +12,7 @@
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrithikksham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithikksham&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrithikksham&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" />
-</div>
-
----
 
 <table>
   <tr>
