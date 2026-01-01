@@ -1,10 +1,7 @@
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/hrithikksham/hrithikksham/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="Contribution Snake"
-  />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 
 <!-- ===================== HERO ===================== -->
