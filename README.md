@@ -1,9 +1,9 @@
-<!-- ===================== YEAR CONTRIBUTION BAR ===================== -->
+<!-- ===================== YEAR CONTRIBUTION SNAKE ===================== -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hrithikksham&bg_color=0d1117&color=22c55e&line=4f46e5&point=ffffff&area=true&hide_border=true"
+    src="https://github.com/hrithikksham/hrithikksham/blob/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake Animation"
     width="100%"
-    alt="Yearly Contribution Graph"
   />
 </p>
 
