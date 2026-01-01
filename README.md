@@ -1,87 +1,94 @@
-<!-- Profile README: Hrithik Sham D H -->
+<!-- ===================== YEAR CONTRIBUTION BAR ===================== -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hrithikksham&bg_color=0d1117&color=22c55e&line=4f46e5&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    alt="Yearly Contribution Graph"
+  />
+</p>
 
+<!-- ===================== HERO ===================== -->
 <div align="center">
 
 # Hrithik Sham D H
 
+<p>
+  <em>Backend & Systems Engineer · Full-Stack · AI-assisted Platforms</em>
+</p>
+
 <a href="https://www.linkedin.com/in/hrithik-sham-d2811">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:hrithikksham@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-hrithikksham%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img alt="Views" src="https://komarev.com/ghpvc/?username=hrithikksham&color=4f46e5&style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=4F46E5&center=true&vCenter=true&width=900&lines=I+write+systems+that+scale%2C+fail+gracefully%2C+and+evolve." alt="Typing intro" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=4F46E5&center=true&vCenter=true&width=820&lines=I+build+systems+that+scale%2C+fail+gracefully%2C+and+age+well."
+/>
 
 </div>
 
 ---
 
-### What I build
-Production-grade systems over demos: APIs, data layers, and cloud-native platforms designed for scale, reliability, and maintainability.
-
-### Engineering mindset
-- Scale: capacity planning, caching, sharding/partitioning, indexing
-- Failure: retries, timeouts, circuit breakers, queues, graceful degradation
-- Team: clean interfaces, docs, test strategy, predictable deployments
+## What I work on
+I build **production-grade backend and full-stack systems**, not demos — APIs, data layers, and cloud-native services designed for **scale, reliability, and long-term maintainability**.
 
 ---
 
-### Current focus
-**Backend**
-- REST/GraphQL APIs with auth, RBAC, and rate limiting
-- MongoDB sharding and PostgreSQL indexing strategies
-- Fault-tolerant service patterns and async workloads
+## Engineering mindset (SDE-oriented)
+- **Scale** → caching, indexing, async jobs, capacity thinking  
+- **Failure** → retries, timeouts, queues, graceful degradation  
+- **Teams** → clean interfaces, readable code, predictable deployments  
 
-**Frontend**
-- React/Next.js for fast, native-feeling UX
-- Real-time UI state patterns
-- React Native for cross-platform precision
-
-**AI systems**
-- LLM tools embedded into SaaS workflows
-- Agentic pipelines, retrieval, context management
-- Structured outputs for reliability
-
-**Cloud native**
-- AWS/Azure deployment patterns
-- Docker + CI/CD + infrastructure as code
-- CDN + caching layers + horizontal scaling
+I optimize for **systems that survive traffic, refactors, and hand-offs**.
 
 ---
 
-### Stack
+## Current focus
+- Backend APIs with **auth, RBAC, rate limits**
+- **MongoDB & PostgreSQL** performance design
+- **LLM-powered features** embedded into real workflows
+- Cloud-native deployment & CI/CD practices
+
+---
+
+## Tech stack
 <div align="center">
 
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" />
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp&theme=dark" />
 
-<br/>
+<br/><br/>
 
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind,vite&theme=dark" />
 
-<br/>
+<br/><br/>
 
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+### Backend & Infra
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,nginx,docker&theme=dark" />
+
+<br/><br/>
+
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws,azure,firebase&theme=dark" />
 
 </div>
 
 ---
 
-### Philosophy
-> Code is read far more than it’s written. I optimize for the reader, not the compiler.
+## Philosophy
+> Code is read far more than it is written.  
+> I design for clarity, ownership, and evolution — not cleverness.
 
-### Contact
-- Email: [hrithikksham@gmail.com](mailto:hrithikksham@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/hrithik-sham-d2811
+---
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=hrithikksham&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithikksham&layout=compact&hide_border=true&theme=tokyonight" />
+
+</div>
