@@ -37,7 +37,7 @@ I build **production-grade backend and full-stack systems**, not demos — APIs,
 
 ---
 
-## Engineering mindset (SDE-oriented)
+## Engineering mindset 
 - **Scale** → caching, indexing, async jobs, capacity thinking  
 - **Failure** → retries, timeouts, queues, graceful degradation  
 - **Teams** → clean interfaces, readable code, predictable deployments  
@@ -60,30 +60,16 @@ I optimize for **systems that survive traffic, refactors, and hand-offs**.
 ### Languages
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp&theme=dark" />
 
-<br/><br/>
-
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind,vite&theme=dark" />
 
-<br/><br/>
-
 ### Backend & Infra
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,nginx,docker&theme=dark" />
-
-<br/><br/>
 
 ### Databases & Cloud
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws,azure,firebase&theme=dark" />
 
 </div>
-
----
-
-## Philosophy
-> Code is read far more than it is written.  
-> I design for clarity, ownership, and evolution — not cleverness.
-
----
 
 <div align="center">
 
