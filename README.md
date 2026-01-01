@@ -1,11 +1,11 @@
-<!-- ===================== YEAR CONTRIBUTION SNAKE ===================== -->
 <p align="center">
   <img
-    src="https://github.com/hrithikksham/hrithikksham/blob/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/hrithikksham/hrithikksham/output/github-contribution-grid-snake-dark.svg"
     width="100%"
+    alt="Contribution Snake"
   />
 </p>
+
 
 <!-- ===================== HERO ===================== -->
 <div align="center">
