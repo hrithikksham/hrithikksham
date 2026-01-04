@@ -62,7 +62,7 @@ I optimize for **systems that survive traffic, refactors, and hand-offs**.
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp&theme=dark" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
 
 ### Backend & Infra
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,nginx,docker&theme=dark" />
