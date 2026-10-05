@@ -1,53 +1,80 @@
-# Hrithik
+<div align="center">
 
-**Founder · Builder · Software Engineer**
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/header-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/header-light.svg"
+  >
+  <img
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/header-light.svg"
+    width="100%"
+    alt="Hrithik — Founder & Builder"
+  >
+</picture>
 
-I build products at the intersection of **software, AI, and voice**.
+<br><br>
 
-Currently building **SoniQ** — a voice AI platform for phone calls.
+### HRITHIK
 
-<br/>
+**Founder · Builder · Product Engineer**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&text=&fontSize=0" width="100%"/>
+I build **AI-native products** around the way people communicate.
 
-### Building
+<br>
 
-**SoniQ**  
-*Voice AI for phone calls.*
+[ SoniQ ](#soniq) &nbsp;·&nbsp;
+[ HUDO ](https://hudo.co.in) &nbsp;·&nbsp;
+[ LinkedIn ](https://linkedin.com)
 
-Conversational AI that speaks, understands, and acts on behalf of people.
+</div>
 
-→ `soniq` · `voice ai` · `telephony` · `agents`
+<br>
 
-### Previously / Along the way
+---
 
-**HUDO** — Software & Product Studio  
-Built and shipped products for businesses, from idea → production.
+<div align="center">
 
-**MemoryFade** — AI Cognitive Memory Engine  
-`FastAPI` · `Qdrant` · `Supabase` · `LLMs`
+## SONIQ
 
-**YourNote** — Personal productivity platform  
-`React Native` · `FastAPI` · `MongoDB`
+**Voice AI for the phone.**
 
-<br/>
+A conversational AI layer that **speaks, understands, and acts** on behalf of people.
 
-### Stack
+<br>
 
-`TypeScript` · `Python` · `Java` · `React` · `React Native`  
-`Node.js` · `FastAPI` · `MongoDB` · `PostgreSQL` · `Redis`  
-`AWS` · `Vercel` · `Docker` · `LLMs` · `RAG`
+`VOICE` &nbsp;&nbsp; `AI` &nbsp;&nbsp; `TELEPHONY` &nbsp;&nbsp; `AGENTS`
 
-<br/>
+</div>
 
-### Philosophy
+<br><br>
 
-> **Build things people can feel.**
+---
 
-I care about **product quality, engineering depth, and the details between the lines.**
+### Selected work
 
-<br/>
+**01 — SoniQ**  
+Voice AI platform for phone conversations.
 
-[Website](https://hudo.co.in) · [LinkedIn](https://linkedin.com) · [X](https://x.com) · [Email](mailto:hello@hudo.co.in)
+**02 — MemoryFade**  
+An AI cognitive memory engine built around memory lifecycle and retrieval.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
+**03 — YourNote**  
+A personal productivity platform spanning notes, reminders and journaling.
+
+**04 — HUDO**  
+A software & product studio where ideas become shipped products.
+
+<br>
+
+
+[GitHub](https://github.com/YOUR_USERNAME)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[LinkedIn](https://linkedin.com)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[HUDO](https://hudo.co.in)
+
+</div>
